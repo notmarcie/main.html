@@ -1,3 +1,6 @@
+git remote add origin https://github.com/notmarcie/greeting.github.io.git
+git branch -M main
+git push -u origin main
 <!-- original : https://codepen.io/SeanNorton/pen/LWBXQL -->
 <!DOCTYPE html>
 <html lang="en">
